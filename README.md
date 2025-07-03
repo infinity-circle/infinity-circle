@@ -1,4 +1,4 @@
-## Hello! I'm Infinity.
+
 "Experienced Senior Full Stack Developer React/Next | Laravel/Vue | Python/Django | Node, CMS Developer, Figma Designer
 Let's Connect for Exciting Collaboration Ventures!"
 
@@ -109,24 +109,3 @@ Let's Connect for Exciting Collaboration Ventures!"
   <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
   <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
 </div>
-
-
-## Github Stats
-
- <p align="center">
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=infinity&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=infinity&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=infinity&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=4b5563&hide_border=true&theme=prussian&show=reviews,prs_merged,prs_merged_percentage" alt="Sunshine's GitHub stats"/>
-  <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=infinity&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&include_all_commits=true" />
-</p> 
-
-<br />
-<p align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=infinity&rank_icon=percentile&count_private=true&hide_border=true&theme=prussian" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=infinity&rank_icon=github&count_private=true&hide_border=true&theme=prussian" alt="Sunshine's GitHub stats"/>
-<!--         <img src="https://github-readme-stats.vercel.app/api?username=infinity&rank_icon=percentile&count_private=true&hide_border=true&theme=prussian" alt="Sunshine's GitHub stats"/> -->
-        <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinity&layout=compact&theme=prussian&show_icons=true&hide_border=true&exclude_repo=Soruko"/>
-    </a>
-</p>
-
